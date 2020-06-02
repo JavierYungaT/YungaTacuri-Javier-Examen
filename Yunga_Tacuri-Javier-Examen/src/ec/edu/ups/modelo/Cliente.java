@@ -6,9 +6,10 @@ import java.util.List;
 import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.persistence.NamedQuery;
 import javax.persistence.OneToMany;
 
-
+@NamedQuery(name = "readByAddress", query = "SELECT c FROM Cliente c WHERE c.cedula = :cedula")
 @Entity
 public class Cliente implements Serializable{
 	

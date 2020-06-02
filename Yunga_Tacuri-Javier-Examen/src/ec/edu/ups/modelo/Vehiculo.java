@@ -6,8 +6,10 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
+import javax.persistence.NamedQuery;
 
-
+//@NamedQuery(name = "read", query = "SELECT v FROM Vehiculo v WHERE v.placa = :usuario")
+@NamedQuery(name = "findByUsuario", query = "SELECT v FROM Vehiculo v WHERE v.cliente.cedula = :cedula")
 @Entity
 public class Vehiculo implements Serializable {
 
