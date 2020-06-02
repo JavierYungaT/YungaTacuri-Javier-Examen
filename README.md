@@ -40,6 +40,6 @@
 
  ![base2](https://user-images.githubusercontent.com/49315481/83552190-fb074f80-a4ce-11ea-8bc5-7f1d551466ff.png)
  
- - Como no se pudo crear las tablas no pude porbar si funciona el ingresar tickets o buscar los ticket, el metodo buscar se implemento para buscar por cedula y por placa no se alcanzo hacer. 
+ - Como no se pudo crear las tablas no pude probar si funciona el ingresar tickets o buscar los ticket, el metodo buscar se implemento para buscar por cedula y por placa no se alcanzo hacer. 
 
 
