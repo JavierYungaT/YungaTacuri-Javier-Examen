@@ -31,7 +31,7 @@
 	<!--Cabecera-->
 
 <div class="container col-lg-4">
-		<form action="/Yunga_Tacuri-Javier-Examen/ControladorIngresarTicket" method="post">
+		<form action="/YungaTacuri-Javier-Examen/ControladorIngresarTicket" method="post">
 			
 
 			<input class="form-control" type="hidden" name="registro"

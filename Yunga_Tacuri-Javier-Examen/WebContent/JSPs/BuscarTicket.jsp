@@ -31,10 +31,10 @@
 	href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap"
 	rel="stylesheet">
 <link
-	href="/Yunga_Tacuri-Javier-Examen/css/index.css"
+	href="/YungaTacuri-Javier-Examen/css/index.css"
 	rel="stylesheet" type="text/css" />
 <link
-	href="/Yunga_Tacuri-Javier-Examen/css/agenda.css"
+	href="/YungaTacuri-Javier-Examen/css/agenda.css"
 	rel="stylesheet" type="text/css" />
 
 <link rel="stylesheet"
@@ -67,7 +67,7 @@
 				<ul>
 					<li class=" col-xs-8 col-sm-4 col-md-4 col-mg-4 mr-sm-4"
 						class="btn  btn-block" style="font-size: 20px;"><a
-						href="/Yunga_Tacuri-Javier-Examen/JSPs/BuscarTicket.jsp" style="color: black">BUSCAR 
+						href="/YungaTacuri-Javier-Examen/JSPs/BuscarTicket.jsp" style="color: black">BUSCAR 
 					</a></li>
 
 				</ul>
@@ -92,7 +92,7 @@
 		<div class="container">
 			<div class="limiter">
 				<div class="container-table100">
-					<form action="/Yunga_Tacuri-Javier-Examen/ControladorListarPorCedula" method="post"
+					<form action="/YungaTacuri-Javier-Examen/ControladorListarPorCedula" method="post"
 						style="margin-top: 60px; padding-top: 30px; width: 539px;">
 						<label for="cars" style="font-size: x-large;">BUSCAR</label>
 						
